@@ -34,7 +34,7 @@
     "rarity": "DEFAULT",
     "required_patreon_tier": "NONE_0",
     "shield_material_overrides": {},
-    "shield_mesh": "/Game/ModContent/3729910023/UnrealAssets/Shield/SK_Cap_Shield.SK_Cap_Shield",
+    "shield_mesh": "/Game/Characters/Shared/Shield/SK_Cha_Shield.SK_Cha_Shield",
     "skin_identifier": "Default",
     "skin_material_slot_custom_color_assignments": {},
     "sound_event_index": 0,
